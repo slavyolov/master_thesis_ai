@@ -1,7 +1,7 @@
 # master_thesis_ai
 ## Dynamic Pricing Optimization using Bernoulli 
 ### Multi-Armed Bandit Algorithms Balancing Exploration and Exploitation for Regret Minimization
-
+###
 This thesis explores dynamic pricing optimization using Bernoulli Multi-Armed Bandit (MAB) algorithms. The problem is framed as selecting optimal price points under uncertainty, where each price represents an arm with an unknown purchase probability. The objective is to minimize cumulative regret by balancing exploration (testing prices) and exploitation (using the best-known price).
 
 Four algorithms are implemented and evaluated: Greedy, Epsilon-Greedy, Thompson Sampling, and UCB1. A demand and reward model is developed to simulate customer behavior, and experiments are conducted under both stationary and non-stationary conditions.
