@@ -1,4 +1,4 @@
-# master_thesis_ai
+# Master Thesis
 ## Title : Dynamic Pricing Optimization using Bernoulli 
 ### Subtitle: Multi-Armed Bandit Algorithms Balancing Exploration and Exploitation for Regret Minimization
 ### Abstract
